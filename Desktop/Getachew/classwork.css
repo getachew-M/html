@@ -1,0 +1,37 @@
+div{
+    background-image:url('img_flr.jpg');
+    background-color: lightgreen;
+    color: brown;
+    margin:2% 2% 4% 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border:1px; 
+}
+#para{
+    color:black;
+    border: 1.5px dotted  red;
+
+}
+img{
+    float: left;
+    margin-left:20%;
+}
+
+h3{
+    text-align: right;
+    color: green;
+    border: 1.5px;
+    border: solid red;
+    text-align: right;
+ padding-top: 5%;
+ padding-right: 5%;
+ padding-left: 4%;
+ padding-bottom: 4%;
+ float: left; 
+ 
+}
+   
+h1{
+    text-align: center;
+    color: crimson;
+} 

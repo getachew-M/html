@@ -1,0 +1,46 @@
+                                Summary Question for Web 6 , Work sheet
+
+
+1. Coment can explain java script code to make it clear for those stackholder to the program, whic makes easy to taste and maintaine.
+
+     a- Single line coments shows single line desciption.
+     b- Multiline comment , shows multiple line desciption about the code or the way use it.
+
+2. /* its code to do something
+     and gives informatiom*/
+   // it is only this line.
+
+3. Primitive DataType is the basic or low level data type assigned ot it.
+   * Boolean     * Number    * String     *  Null       *  Undefined.
+
+4. They are diffrent 2.5 its number (integer ,whole number), but "2.5" is readed like a string.
+
+5.  String is expressed by double quote like "string",or single quote 'string'.
+
+6.  Skkiping charactor (\ ), it will face to run time error , so to overcome the problem we use skipping charactor.
+
+7. Boolean has two values like true/false.
+
+8. Null -shows unknown or empty for someother reason.
+
+9. Invalid , because variable not starts by number.
+
+10. False
+11. var x; its declaring variable, x=5; its assigne the variable.
+12  false.
+13.  Unexpected identifier error.
+14. var hi="hello world";
+        hi;
+15.  var a=prompt("enter number");
+         console.log("the number is "+a);
+
+16. var name=prompt("enter name");// to print the name u gave to until u enter 'Get'
+         if (name!=get){
+             alert(name);
+             var name=prompt("enter name");
+             }
+         else{
+                 alert("goodbye");
+             }      
+
+ 
